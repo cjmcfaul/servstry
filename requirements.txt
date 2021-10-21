@@ -3,7 +3,7 @@ asgiref==3.2.7
 attrs==19.3.0
 autobahn==20.4.3
 Automat==20.2.0
-Babel==2.8.0
+Babel==2.9.1
 billiard==3.6.3.0
 boto==2.49.0
 boto3==1.13.16
